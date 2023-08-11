@@ -5,7 +5,7 @@
   "scripts": {
     "build": "tsc",
     "dev": "node ./dist/index.js",
-    "start": "tsc && npm run dev"
+    "start": "node ./dist/index.js"
   },
   "repository": "https://github.com/kakhilR/Assg.git",
   "author": "kakhilR <akhilkarenae@gmail.com>",
